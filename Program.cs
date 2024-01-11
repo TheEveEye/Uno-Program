@@ -509,10 +509,5 @@ namespace UnoNew
                 }
             }    
         }
-        static string GetStringInput(string prefix)
-        {
-            Console.WriteLine(prefix);
-            return Console.ReadLine();
-        }
     }
 }
