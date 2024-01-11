@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IQQFSXp/hk/26+c2ZRNi9hCCzXNwp3jtJRgeeQsWAO2iy7rkONzPUS4K1WC1i9H3GB9alXALnDAFAlskBZ+qYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Oskar\\Documents\\DesktopAlt\\Code\\csharp\\Uno Program\\UnoNew.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oskar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

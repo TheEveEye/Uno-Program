@@ -1,0 +1,53 @@
+C:\Users\Oskar\Desktop\Code\csharp\UnoNew\bin\Debug\netcoreapp3.1\UnoNew.exe
+C:\Users\Oskar\Desktop\Code\csharp\UnoNew\bin\Debug\netcoreapp3.1\UnoNew.deps.json
+C:\Users\Oskar\Desktop\Code\csharp\UnoNew\bin\Debug\netcoreapp3.1\UnoNew.runtimeconfig.json
+C:\Users\Oskar\Desktop\Code\csharp\UnoNew\bin\Debug\netcoreapp3.1\UnoNew.runtimeconfig.dev.json
+C:\Users\Oskar\Desktop\Code\csharp\UnoNew\bin\Debug\netcoreapp3.1\UnoNew.dll
+C:\Users\Oskar\Desktop\Code\csharp\UnoNew\bin\Debug\netcoreapp3.1\UnoNew.pdb
+C:\Users\Oskar\Desktop\Code\csharp\UnoNew\obj\Debug\netcoreapp3.1\UnoNew.csprojAssemblyReference.cache
+C:\Users\Oskar\Desktop\Code\csharp\UnoNew\obj\Debug\netcoreapp3.1\UnoNew.AssemblyInfoInputs.cache
+C:\Users\Oskar\Desktop\Code\csharp\UnoNew\obj\Debug\netcoreapp3.1\UnoNew.AssemblyInfo.cs
+C:\Users\Oskar\Desktop\Code\csharp\UnoNew\obj\Debug\netcoreapp3.1\UnoNew.csproj.CoreCompileInputs.cache
+C:\Users\Oskar\Desktop\Code\csharp\UnoNew\obj\Debug\netcoreapp3.1\UnoNew.dll
+C:\Users\Oskar\Desktop\Code\csharp\UnoNew\obj\Debug\netcoreapp3.1\UnoNew.pdb
+C:\Users\Oskar\Desktop\Code\csharp\UnoNew\obj\Debug\netcoreapp3.1\UnoNew.genruntimeconfig.cache
+C:\Users\Oskar\Desktop\Code\csharp\Uno Project\Uno Program\bin\Debug\netcoreapp3.1\UnoNew.exe
+C:\Users\Oskar\Desktop\Code\csharp\Uno Project\Uno Program\bin\Debug\netcoreapp3.1\UnoNew.deps.json
+C:\Users\Oskar\Desktop\Code\csharp\Uno Project\Uno Program\bin\Debug\netcoreapp3.1\UnoNew.runtimeconfig.json
+C:\Users\Oskar\Desktop\Code\csharp\Uno Project\Uno Program\bin\Debug\netcoreapp3.1\UnoNew.runtimeconfig.dev.json
+C:\Users\Oskar\Desktop\Code\csharp\Uno Project\Uno Program\bin\Debug\netcoreapp3.1\UnoNew.dll
+C:\Users\Oskar\Desktop\Code\csharp\Uno Project\Uno Program\bin\Debug\netcoreapp3.1\UnoNew.pdb
+C:\Users\Oskar\Desktop\Code\csharp\Uno Project\Uno Program\obj\Debug\netcoreapp3.1\UnoNew.csprojAssemblyReference.cache
+C:\Users\Oskar\Desktop\Code\csharp\Uno Project\Uno Program\obj\Debug\netcoreapp3.1\UnoNew.AssemblyInfoInputs.cache
+C:\Users\Oskar\Desktop\Code\csharp\Uno Project\Uno Program\obj\Debug\netcoreapp3.1\UnoNew.AssemblyInfo.cs
+C:\Users\Oskar\Desktop\Code\csharp\Uno Project\Uno Program\obj\Debug\netcoreapp3.1\UnoNew.csproj.CoreCompileInputs.cache
+C:\Users\Oskar\Desktop\Code\csharp\Uno Project\Uno Program\obj\Debug\netcoreapp3.1\UnoNew.dll
+C:\Users\Oskar\Desktop\Code\csharp\Uno Project\Uno Program\obj\Debug\netcoreapp3.1\UnoNew.pdb
+C:\Users\Oskar\Desktop\Code\csharp\Uno Project\Uno Program\obj\Debug\netcoreapp3.1\UnoNew.genruntimeconfig.cache
+C:\Users\Oskar\Desktop\Code\csharp\Uno Program\bin\Debug\netcoreapp3.1\UnoNew.exe
+C:\Users\Oskar\Desktop\Code\csharp\Uno Program\bin\Debug\netcoreapp3.1\UnoNew.deps.json
+C:\Users\Oskar\Desktop\Code\csharp\Uno Program\bin\Debug\netcoreapp3.1\UnoNew.runtimeconfig.json
+C:\Users\Oskar\Desktop\Code\csharp\Uno Program\bin\Debug\netcoreapp3.1\UnoNew.runtimeconfig.dev.json
+C:\Users\Oskar\Desktop\Code\csharp\Uno Program\bin\Debug\netcoreapp3.1\UnoNew.dll
+C:\Users\Oskar\Desktop\Code\csharp\Uno Program\bin\Debug\netcoreapp3.1\UnoNew.pdb
+C:\Users\Oskar\Desktop\Code\csharp\Uno Program\obj\Debug\netcoreapp3.1\UnoNew.AssemblyInfoInputs.cache
+C:\Users\Oskar\Desktop\Code\csharp\Uno Program\obj\Debug\netcoreapp3.1\UnoNew.AssemblyInfo.cs
+C:\Users\Oskar\Desktop\Code\csharp\Uno Program\obj\Debug\netcoreapp3.1\UnoNew.csproj.CoreCompileInputs.cache
+C:\Users\Oskar\Desktop\Code\csharp\Uno Program\obj\Debug\netcoreapp3.1\UnoNew.dll
+C:\Users\Oskar\Desktop\Code\csharp\Uno Program\obj\Debug\netcoreapp3.1\UnoNew.pdb
+C:\Users\Oskar\Desktop\Code\csharp\Uno Program\obj\Debug\netcoreapp3.1\UnoNew.genruntimeconfig.cache
+C:\Users\Oskar\Desktop\Code\csharp\Uno Program\obj\Debug\netcoreapp3.1\UnoNew.csproj.AssemblyReference.cache
+C:\Users\Oskar\Desktop\Code\csharp\Uno Program\obj\Debug\netcoreapp3.1\UnoNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oskar\Documents\DesktopAlt\Code\csharp\Uno Program\bin\Debug\netcoreapp3.1\UnoNew.exe
+C:\Users\Oskar\Documents\DesktopAlt\Code\csharp\Uno Program\bin\Debug\netcoreapp3.1\UnoNew.deps.json
+C:\Users\Oskar\Documents\DesktopAlt\Code\csharp\Uno Program\bin\Debug\netcoreapp3.1\UnoNew.runtimeconfig.json
+C:\Users\Oskar\Documents\DesktopAlt\Code\csharp\Uno Program\bin\Debug\netcoreapp3.1\UnoNew.runtimeconfig.dev.json
+C:\Users\Oskar\Documents\DesktopAlt\Code\csharp\Uno Program\bin\Debug\netcoreapp3.1\UnoNew.dll
+C:\Users\Oskar\Documents\DesktopAlt\Code\csharp\Uno Program\bin\Debug\netcoreapp3.1\UnoNew.pdb
+C:\Users\Oskar\Documents\DesktopAlt\Code\csharp\Uno Program\obj\Debug\netcoreapp3.1\UnoNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oskar\Documents\DesktopAlt\Code\csharp\Uno Program\obj\Debug\netcoreapp3.1\UnoNew.AssemblyInfoInputs.cache
+C:\Users\Oskar\Documents\DesktopAlt\Code\csharp\Uno Program\obj\Debug\netcoreapp3.1\UnoNew.AssemblyInfo.cs
+C:\Users\Oskar\Documents\DesktopAlt\Code\csharp\Uno Program\obj\Debug\netcoreapp3.1\UnoNew.csproj.CoreCompileInputs.cache
+C:\Users\Oskar\Documents\DesktopAlt\Code\csharp\Uno Program\obj\Debug\netcoreapp3.1\UnoNew.dll
+C:\Users\Oskar\Documents\DesktopAlt\Code\csharp\Uno Program\obj\Debug\netcoreapp3.1\UnoNew.pdb
+C:\Users\Oskar\Documents\DesktopAlt\Code\csharp\Uno Program\obj\Debug\netcoreapp3.1\UnoNew.genruntimeconfig.cache
